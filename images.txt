@@ -1,4 +1,2 @@
 nginx
-redis
-mysql
-jupyter/datascience-notebook
+
