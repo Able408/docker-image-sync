@@ -1,1 +1,2 @@
 nginx
+jupyter/datascience-notebook
