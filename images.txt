@@ -1,3 +1,4 @@
 jupyter/datascience-notebook
 quay.io/jupyter/pytorch-notebook:cuda12-python-3.11.8
 quay.io/jupyter/tensorflow-notebook:cuda-latest
+gcr.io/k8s-minikube/kicbase:v0.0.46@sha256:fd2d445ddcc33ebc5c6b68a17e6219ea207ce63c005095ea1525296da2d1a279
